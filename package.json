@@ -1,0 +1,14 @@
+{
+  "name": "off-street-parking",
+  "version": "1.0.0",
+  "description": "Off Street Parking Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LSG",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.7.1"
+  }
+}
